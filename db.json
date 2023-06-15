@@ -1,0 +1,55 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Lisi",
+      "empresa": "Maquinados RJ",
+      "email": "juradoroblesdiana@gmail.com",
+      "telefono": "81124292207",
+      "notas": "El cliente tiene un problema con su ecommers",
+      "id": 6
+    },
+    {
+      "nombre": "Alejandro",
+      "empresa": "FIME",
+      "email": "2004.estrada.lopez@gmail.com",
+      "telefono": "8110367083",
+      "notas": "El cliente tiene un problema",
+      "id": 7
+    }
+  ]
+}
